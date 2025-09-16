@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.h-center {
+    text-align: center;
+    background-color: #323f4b;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    text-align: center;
+    height: 70vh;
+    background-size: cover;
+}
+
+.paragraph1 {
+    background-color: #47a3f3;
+    font-family: "Roboto";
+    color: #ffffff;
+    text-align: right;
+    height: 35px;
+    width: 400px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.paragraph2 {
+    background-color: #52606d;
+    font-family: "Roboto";
+    color: #ffffff;
+    text-align: left;
+    height: 35px;
+    width: 400px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
