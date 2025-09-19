@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-card-container {
+    background-color: #fb4e71;
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 10px;
+}
+
+.top-card-image {
+    height: 160px;
+    width: 150px;
+}
+
+.middle-card-container {
+    background-color: #e6f6ff;
+    text-align: left;
+    color: #323f4b;
+    font-family: "Roboto";
+    margin: 10px;
+}
+
+.middle-inside-card-container {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: left;
+}
+
+.middle-container {
+    text-align: left;
+    border-radius: 5px;
+    color: #888888;
+}
+
+.middle-inside-card-image {
+    height: 190px;
+    width: 150px;
+    align-items: right;
+}
+
+.bottom-card-container {
+    background-color: #e6f6ff;
+    padding: 20px;
+    text-align: center;
+    color: #323f4b;
+    font-family: "Roboto";
+    margin: 10px;
+
+}
+
+.bottom-card-container-image1 {
+    height: 120px;
+    width: 130px;
+    margin: 10px;
+}
+
+
+.bottom-card-container-image2 {
+    height: 120px;
+    width: 130px;
+    margin: 10px;
+}
+
+.bottom-card-container-image3 {
+    height: 120px;
+    width: 130px;
+    margin: 10px;
+}
+
+.paragraph1 {
+    margin: 10px;
+}
+
+.paragraph2 {
+    margin: 10px;
+}
+
+.paragraph3 {
+    margin: 10px;
+}
+
+.btn btn-primary {
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    border-width: 0px;
+    margin: 20px;
+    font-family: "Roboto";
+
+}
+
+.heading {
+    text-align: left;
+}
