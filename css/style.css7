@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-card-container {
+    background-color: white;
+    padding: 20px;
+}
+
+.heading {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.top-card-image {
+    align-items: right;
+    height: 140px;
+    width: 100px;
+}
+
+.middle-card-container {
+    background-color: #0967d219;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.heading1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.paragraph {
+    color: #707070;
+    font-family: "Roboto";
+    font-weight: 500px;
+}
+
+.middle-card-container-image {
+    height: 140px;
+    width: 100px;
+}
+
+.heading2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.middle-card-two-container {
+    padding: 10px;
+}
+
+.middle-card-two-container-image1 {
+    height: 150px;
+    width: 100px;
+    background-color: #3ebd93;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+.middle-card-two-container-image2 {
+    height: 150px;
+    width: 100px;
+    background-color: #e668a7;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+.middle-card-two-container-image3 {
+    height: 150px;
+    width: 100px;
+    background-color: #a368fc;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+.paragraph1 {
+    text-align: center;
+    color: white;
+    padding: 30px;
+    font-weight: 500;
+}
+
+.paragraph2 {
+    text-align: center;
+    color: white;
+    padding: 30px;
+    font-weight: 500;
+}
+
+.paragraph3 {
+    text-align: center;
+    color: white;
+    padding: 30px;
+    font-weight: 500;
+}
+
+.image1 {
+    color: white;
+    padding: 30px;
+}
+
+.image2 {
+    color: white;
+    padding: 30px;
+}
+
+.image3 {
+    color: white;
+    padding: 30px;
+}
+
+.bottom-card-container {
+    background-color: #e12d3919;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.bottom-card-image {
+    height: 150px;
+    width: 100px;
+}
+
+.paragraph-bottom {
+    color: #707070;
+    font-family: "Roboto";
+    font-weight: 500;
+}
