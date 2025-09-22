@@ -1,0 +1,31 @@
+.top-card-container {
+    border: 10px;
+    border-color: #707070;
+    text-align: center;
+    padding: 10px;
+}
+
+.top-card-container-image {
+    height: 100px;
+    width: 150px;
+}
+
+.heading {
+    color: #0a1f44;
+    font-family: "Roboto";
+    text-align: left;
+    padding: 30px;
+}
+
+.unordered-list {
+    list-style-type: disc;
+    color: #0a1f44;
+    text-align: left;
+    padding: 30px;
+}
+
+.button {
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+}
