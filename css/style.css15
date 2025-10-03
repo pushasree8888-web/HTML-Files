@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    margin-top: 0.5px;
+}
+
+.carouselexampleindicators {
+    border-radius: 10px;
+    margin: 40px;
+    padding: 20px;
+}
+
+.carousel-inner {
+    padding: 20px;
+}
+
+.middle-container {
+    padding: 20px;
+}
+
+.heading {
+    font-family: "Roboto";
+    color: white;
+}
+
+.button {
+    background-color: white;
+    color: #ff8348;
+    border-radius: 5px;
+    font-family: "Roboto";
+    height: 40px;
+    width: 120px;
+    border-width: 0px;
+    padding: 10px;
+}
+
+.paragraph {
+    text-align: left;
+    font-family: "Roboto";
+    color: white;
+}
+
+.bottom-container {
+    padding: 20px;
+}
+
+.heading {
+    color: white;
+}
+
+.bottom-card-container {
+    border-radius: 10px;
+}
+
+.bottom-card-container-image1 {
+    padding: 20px;
+}
+
+.bottom-card-container-image2 {
+    padding: 20px;
+}
+
+.bottom-card-container-image3 {
+    padding: 20px;
+}
