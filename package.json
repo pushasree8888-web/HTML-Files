@@ -1,0 +1,22 @@
+{
+  "name": "skillmate",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "services/*",
+    "infra/*"
+  ],
+  "scripts": {
+    "dev:server": "npm --workspace services/server run dev",
+    "dev:ai": "npm --workspace services/ai run dev",
+    "dev:web": "npm --workspace apps/web run dev",
+    "dev:mobile": "npm --workspace apps/mobile run start",
+    "dev": "concurrently -n server,ai,web \"npm:dev:server\" \"npm:dev:ai\" \"npm:dev:web\"",
+    "build": "npm -w services/server run build && npm -w apps/web run build && echo 'AI service uses Python'",
+    "start": "npm -w services/server start",
+    "postinstall": "echo 'Run pip install -r services/ai/requirements.txt for AI service'"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+}
