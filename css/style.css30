@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-color: white;
+    color: #1f2933;
+    text-align: right;
+}
+
+h1 {
+    text-align: left;
+    margin: 10px;
+}
+
+.container1 {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    height: 600px;
+    background-size: cover;
+    text-align: left;
+    color: white;
+    margin: 10px;
+}
+
+.button {
+    border-style: solid;
+    border-radius: 3px;
+    text-align: center;
+    width: 85px;
+}
+
+.container2 {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    height: 600px;
+    background-size: cover;
+    text-align: left;
+    color: white;
+    margin: 10px;
+}
